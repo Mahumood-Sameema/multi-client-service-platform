@@ -50,7 +50,7 @@ This project demonstrates understanding of:
 ![Today](screenshots/today.png)
 
 ### Task Planning
-![Plan](screenshots/plan.png)
+![Plan](screenshots/planTask.png)
 
 ### Calendar View
 ![Calendar](screenshots/calendar.png)
