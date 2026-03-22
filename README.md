@@ -45,7 +45,15 @@ This project demonstrates understanding of:
 ---
 
 ## 📸 Screenshots
-(Add screenshots here after uploading them in the screenshots folder)
+
+### Today Dashboard
+![Today](screenshots/today.png)
+
+### Task Planning
+![Plan](screenshots/plan.png)
+
+### Calendar View
+![Calendar](screenshots/calendar.png)
 
 ---
 
